@@ -15,6 +15,7 @@ To use the application you need the last version of Java and JavaFx, both can be
 ## 1.2 Packaged executable
 
 Verify that the checksum match the one provided and if it does then just click on the file.
+
 You can do so at this website: https://emn178.github.io/online-tools/sha256_checksum.html
 
 DO NOT EXECUTE A FILE FROM AN UNKNOWN SOURCE OR WITHOUT HAVING CHECKED THE CHECKSUM FROM THE OFFICIAL REPO.
