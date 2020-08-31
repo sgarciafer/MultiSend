@@ -3,6 +3,8 @@
 MultiSend is a standalone desktop application used to perform a large number of transactions on the Ethereum network based a list of receivers and amounts. 
 It can be used to send ETH or any ERC20 compatible token.
 
+![MultiSend screenshot](https://i.imgur.com/9S2GpoN.png)
+
 ## 1 Installation
 
 ## 1.1 Compiling from source
